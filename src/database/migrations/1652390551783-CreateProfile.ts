@@ -17,6 +17,10 @@ export class CreateProfile1652390551783 implements MigrationInterface {
               type: "varchar",
             },
             {
+              name: "translate",
+              type: "varchar",
+            },
+            {
               name: "created_at",
               type: "timestamp",
               default: "now()",

@@ -17,6 +17,14 @@ export class CreateMenu1652391018381 implements MigrationInterface {
             type: "varchar",
           },
           {
+            name: "icon",
+            type: "varchar",
+          },
+          {
+            name: "route",
+            type: "varchar",
+          },
+          {
             name: "created_at",
             type: "timestamp",
             default: "now()",

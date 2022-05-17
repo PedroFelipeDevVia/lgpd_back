@@ -1,4 +1,4 @@
-<h1 align="center">Valoriza</h1>
+<h1 align="center">LGPD</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
@@ -37,4 +37,3 @@ Por fim, a aplicação estará disponível em `http://localhost:3000`
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-Feito com 💜 &nbsp;by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discord.gg/gKUVrzrPrU)

@@ -13,6 +13,9 @@ class Profile {
   @Column()
   description: string;
 
+  @Column()
+  translate: string;
+
   @CreateDateColumn()
   created_at: Date;
 

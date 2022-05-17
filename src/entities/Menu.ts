@@ -13,6 +13,12 @@ class Menu {
   @Column()
   description: string;
 
+  @Column()
+  icon: string;
+
+  @Column()
+  route: string;
+
   @CreateDateColumn()
   created_at: Date;
 
